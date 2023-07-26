@@ -1,19 +1,100 @@
-# 💫 About Me:
-I am a software engineer with a passion for science and technology<br>Shoot me an email or add me on LinkedIn :)
+<div align="center">
+    <h1>Hai, I am Asirwad <img
+            src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
+    <img alt="Developer Pic"
+        src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
+    <br/><br/>
+    <p>🙏🏻 Welcome to my Github profile!<br />
+        I am a <b>Software developer</b> 🚀 from <b>Kerala, India</b> <img
+            src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/800px-Flag_of_India.svg.png?20230723002237" width="25" /> .<br />
+        I love building side projects 😍, and most of them are <b>Open source</b>. </p>
+    <div>
+        <a href="https://www.linkedin.com/in/asirwad-sali-58446620a" target="_blank"><img alt="LinkedIn"
+                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="mailto:asirwadsali@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+    </div>
+</div>
 
+<div>
+    <div>
+        <h2><img align="center"
+                src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="28" />
+            What I'm up to</h2>
+        <ul>
+            <li> 👨🏻‍💻 I'm currently working on my side projects ✍🏻</li>
+            <li> 💬 Loves to talk about Generative AI and LLMs <img align="center"
+                    src="https://icons.veryicon.com/png/o/education-technology/blue-gray-solid-blend-icon/artificial-intelligence-5.png"
+                    width="40" /></li>
+            <li> 🎓 I'm currently learning tensorflow <img align="center"
+                    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png"
+                    width="30" /></li>
+            <li>📫 How to reach me: <img align="center"
+                    src="https://emojis.slackmojis.com/emojis/images/1450319444/38/gmail.png?1450319444" width="17" />
+                <a href="mailto:asirwadsali@gmail.com" target="_blank">asirwadsali@gmail.com</a></li>
+        </ul>
+    </div>
+    <div>
+        <h2>🧰 Languages and Tools</h2>
+        <p align="center">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow"
+                width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
+                width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
+                width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
+                width="35" />&nbsp;&nbsp;&nbsp
+            <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
+                width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
+                alt="Java" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
+                width="48" />&nbsp;&nbsp;&nbsp
+        </p>
+    </div>
+    <div>
+        <h2><img align="center" width="35"
+                src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
+            Repositories</h2>
+        <p align="center">
+            <a href="https://github.com/Asirwad/InvisiCipher">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=InvisiCipher&theme=dark" width="400" /></a>
+            <a href="https://github.com/Asirwad/ATM-management-system">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=ATM-management-system&theme=dark" width="400"/></a>
+            <a href="https://github.com/Asirwad/Color-Craft-GAN">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=Color-Craft-GAN&theme=dark" width="400"/></a>
+            <a href="https://github.com/Asirwad/Image-Classifier-Tensorflow-Fashionmnist">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=Image-Classifier-Tensorflow-Fashionmnist&theme=dark" width="400"/></a>
+        </p>
+    </div>
+    <br />
+    <div>
+        <h2>⏱ My Stats
+        </h2>
+    </div>
+    <br />
+    <div>
+        <details>
+            <summary>
+                :octocat: Github Stats
+            </summary>
+            <br />
+            <p align="center">
+                <img height="160" alt="Asirwad's Github Stats"
+                    src="https://github-readme-stats.vercel.app/api?username=Asirwad&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+                <img alt="Asirwad's Github Stats" height="160"
+                    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asirwad&hide=assembly&layout=compact&theme=dark" />
+            </p>
+        </details>
+    </div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gt_asirwad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asirwad-sali-58446620a) 
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Asirwad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asirwad&theme=dark&hide_border=true)<br/>
-
-### ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Asirwad&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr />
+</br>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Asirwad&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
+        width="130" /><br />
+</div>
