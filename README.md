@@ -84,7 +84,7 @@
     <div>
         <details>
             <summary>
-                :octocat: Github Stats
+                :octocat: <b>Github Stats</b>
             </summary>
             <br />
             <p align="center">
