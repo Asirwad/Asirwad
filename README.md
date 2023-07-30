@@ -40,6 +40,8 @@
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://github.com/Asirwad/Asirwad/assets/85600836/88bfeafc-f69a-459e-8bc7-2eb8f0aa1a41" alt="Springboot"
                 width="48" />&nbsp;&nbsp;&nbsp
+            <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django"
+                width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
@@ -56,8 +58,6 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django"
                 width="48" />&nbsp;&nbsp;&nbsp
         </p>
     </div>
