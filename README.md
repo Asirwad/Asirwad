@@ -38,7 +38,7 @@
         <p align="center">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow"
                 width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://github.com/Asirwad/Asirwad/assets/85600836/88bfeafc-f69a-459e-8bc7-2eb8f0aa1a41" alt="Springboot"
+            <img src="https://github.com/Asirwad/Asirwad/assets/85600836/11f6b913-de7e-4ccd-8cad-c3d210c6a7c0" alt="Springboot"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django"
                 width="48" />&nbsp;&nbsp;&nbsp
