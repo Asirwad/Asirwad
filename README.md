@@ -50,7 +50,7 @@
                 width="35" />&nbsp;&nbsp;&nbsp
             <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
                 width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://github.com/Asirwad/Asirwad/assets/85600836/f8ed558d-e3be-4000-9512-e94cd4987e5b" alt="PostgreSQL"
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL"
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
                 alt="Java" />&nbsp;&nbsp;&nbsp
