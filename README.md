@@ -72,6 +72,8 @@
         <p align="center">
             <a href="https://github.com/Asirwad/InvisiCipher">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=InvisiCipher&theme=dark" width="400" /></a>
+            <a href="https://github.com/Asirwad/ATM-management-system">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=ATM-management-system&theme=dark" width="400"/></a>
             <a href="https://github.com/Asirwad/Color-Craft-GAN">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=Color-Craft-GAN&theme=dark" width="400"/></a>
             <a href="https://github.com/Asirwad/Image-Classifier-Tensorflow-Fashionmnist">
