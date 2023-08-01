@@ -76,8 +76,8 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=ATM-management-system&theme=dark" width="400"/></a>
             <a href="https://github.com/Asirwad/Color-Craft-GAN">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=Color-Craft-GAN&theme=dark" width="400"/></a>
-            <a href="https://github.com/Asirwad/Image-Classifier-Tensorflow-Fashionmnist">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=Image-Classifier-Tensorflow-Fashionmnist&theme=dark" width="400"/></a>
+            <a href="https://github.com/Asirwad/CRM-App-using-Django">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=CRM-App-using-Django&theme=dark" width="400"/></a>
         </p>
     </div>
     <br />
