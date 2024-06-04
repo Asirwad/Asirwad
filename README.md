@@ -63,7 +63,7 @@
                 width="48" />&nbsp;&nbsp;&nbsp
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c"
                 width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" alt="streamlit"
+            <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit"
                 width="80"/>&nbsp;&nbsp;&nbsp
         </p>
     </div>
