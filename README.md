@@ -34,37 +34,17 @@
         </ul>
     </div>
     <div>        
-        <h2>🧰 Languages and Tools</h2>
+        <h2>👨‍💻 Programming Languages</h2>
         <p align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" alt="Tensorflow"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <!-- <img src="https://github.com/Asirwad/Asirwad/assets/85600836/11f6b913-de7e-4ccd-8cad-c3d210c6a7c0" alt="Springboot"
-                width="48" />&nbsp;&nbsp;&nbsp -->
-            <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://github.com/Asirwad/Asirwad/assets/85600836/98e94af1-a9eb-4665-8e4f-2ed33d93bd1c" width="75"
-                alt="JavaFX" />&nbsp;&nbsp;&nbsp
-            <!--<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/java/java_64x64.png" width="48"
-                alt="Java" />&nbsp;&nbsp;&nbsp -->
-            <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS"
-                width="35" />&nbsp;&nbsp;&nbsp
-            <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="Mongo DB"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostgreSQL"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <!--<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" width="50" />&nbsp;&nbsp;&nbsp-->
-            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" alt="c"
-                width="48" />&nbsp;&nbsp;&nbsp
-            <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit"
-                width="80"/>&nbsp;&nbsp;&nbsp
+            <a href="https://github.com/Asirwad"><img alt="Icons" src="https://skillicons.dev/icons?i=py,c,cpp,java&perline=8"></a>
+        </p>
+        <h2>🧰 Frameworks and Tools</h2>
+        <p align="center">
+            <a href="https://github.com/Asirwad"><img alt="Icons" src="https://skillicons.dev/icons?i=tensorflow,pytorch,django,spring,qt,opencv,anaconda,bootstrap,git,idea,linux,pycharm&perline=6"></a>
+        </p>
+        <h2>🗄️ Databases and cloud</h2>
+        <p align="center">
+            <a href="https://github.com/Asirwad"><img alt="Icons" src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,github,&perline=5"></a>
         </p>
     </div>
     <div>
