@@ -2,7 +2,7 @@
     <h1>Hai, I am Asirwad <img
             src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
     <img alt="Developer Pic"
-        src="https://github.com/Asirwad/Asirwad/assets/85600836/40af2ead-6cc6-47d8-bd46-db0664f923ad" width="300"/>
+        src="https://github.com/Asirwad/Asirwad/assets/85600836/40af2ead-6cc6-47d8-bd46-db0664f923ad" width="200"/>
     <br/><br/>
     <p>🙏🏻 Welcome to my Github profile!<br />
         I am a <b>Software developer</b> 🚀 from <b>Kerala, India</b> <img
