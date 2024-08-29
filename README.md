@@ -56,8 +56,8 @@
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=InvisiCipher&theme=dark" width="400" /></a>
             <a href="https://github.com/Asirwad/ATM-management-system">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=ATM-management-system&theme=dark" width="400"/></a>
-            <a href="https://github.com/Asirwad/Color-Craft-GAN">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=Color-Craft-GAN&theme=dark" width="400"/></a>
+            <a href="https://github.com/Asirwad/DevStripe">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=DevStripe&theme=dark" width="400"/></a>
             <a href="https://github.com/Asirwad/CRM-App-using-Django">
                 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Asirwad&repo=CRM-App-using-Django&theme=dark" width="400"/></a>
         </p>
