@@ -24,17 +24,17 @@
 ### 🛠️ Tech Stack
 #### **Languages**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts&theme=dark" />
 </p>
 
 #### **Frameworks & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nextjs,spring,tensorflow,pytorch,django,electron,qt,opencv&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,angular,spring,tensorflow,pytorch,django,electron,tailwind&theme=dark" />
 </p>
 
-#### **Data & Cloud**
+#### **Data & DevOps**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb,kafka,rabbitmq,aws,azure,git,kubernetes,docker,anaconda,appwrite,bun,githubactions,grafana,graphql,hibernate,jenkins&perline=10&theme=dark" />
 </p>
 
 ---
