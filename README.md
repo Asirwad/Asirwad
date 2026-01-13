@@ -39,7 +39,7 @@ I’m still learning every day — especially where AI meets real-world constrai
 - Open-source + proprietary model tradeoffs
 
 **Backend & Platform**
-- Python, FastAPI
+- Python, FastAPI, langgraph
 - PostgreSQL, Redis
 - Docker, Kubernetes
 - AWS / Azure
