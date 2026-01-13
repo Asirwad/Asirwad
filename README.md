@@ -1,59 +1,69 @@
-<div align="center"> 
-    <h1>Hai, I'm Asirwad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"></h1>
-    <img alt="Developer Pic" src="https://github.com/Asirwad/Asirwad/assets/85600836/40af2ead-6cc6-47d8-bd46-db0664f923ad" width="200"/>
-    <br/><br/>
-    <p>🙏🏻 Software Developer crafting full-stack solutions <br/>
-        From <b>Kerala, India</b> <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20" /></p>
-    <div>
-        <a href="https://www.linkedin.com/in/asirwad-sali-58446620a" target="_blank"><img alt="LinkedIn"
-                src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:asirwadsali@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-    </div>
-</div>
-
----
-
-### 🔮 Current Focus
-- 🛠️ Building AI-powered applications with **Next.js & TensorFlow**
-- 🧠 Exploring **LLM architectures & RAG systems**
-- ⚡ Developing desktop apps with **Electron.js**
-
----
-
-### 🛠️ Tech Stack
-#### **Languages**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,ts&theme=dark" />
-</p>
-
-#### **Frameworks & Tools**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,angular,spring,tensorflow,pytorch,django,electron,tailwind&theme=dark" />
-</p>
-
-#### **Data & DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,dynamodb,kafka,rabbitmq,aws,azure,git,kubernetes,docker,anaconda,appwrite,bun,githubactions,grafana,graphql,hibernate,jenkins&perline=10&theme=dark" />
-</p>
-
----
-
-### 🏆 Featured Projects
-| Project | Description |
-|---------|-------------|
-| [InvisiCipher](https://github.com/Asirwad/InvisiCipher) | Steganography-based secure communication |
-| [DevStripe](https://github.com/Asirwad/DevStripe) | Developer-focused payment integration |
-| [CRM Django](https://github.com/Asirwad/CRM-App-using-Django) | Customer relationship management system |
-
----
-
-### 📈 Activity
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Asirwad&show_icons=true&theme=dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asirwad&layout=compact&theme=dark&hide_border=true" />
+
+<h1>Asirwad Sali</h1>
+<p><b>AI Engineer · Systems-minded</b></p>
+
+<p>
+I work on AI systems that are expected to run in production.<br/>
+My focus is on correctness, cost, observability, and long-term maintainability.
+</p>
+
+<a href="https://www.linkedin.com/in/asirwad-sali-58446620a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:asirwadsali@gmail.com">
+  <img src="https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white" />
+</a>
+
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asirwad&color=blueviolet" />
-</div>
+---
+
+## How I Approach AI Work
+
+- Design **systems first**, models second  
+- Prefer **simple, explicit architectures** over clever abstractions  
+- Optimize for **debuggability, cost control, and failure modes**
+- Treat AI components as **infrastructure**, not experiments
+
+I’m still learning every day — especially where AI meets real-world constraints.
+
+---
+
+## Areas of Focus
+
+**AI & LLM Systems**
+- Retrieval-Augmented Generation (text & multimodal)
+- Agentic workflows with deterministic execution
+- Model routing, evaluation, and cost-aware inference
+- Open-source + proprietary model tradeoffs
+
+**Backend & Platform**
+- Python, FastAPI
+- PostgreSQL, Redis
+- Docker, Kubernetes
+- AWS / Azure
+- Structured logging, metrics, traces
+
+**Product Engineering**
+- Building internal AI platforms teams can trust
+- Clear APIs, versioning, and operational discipline
+- Frontends only when they serve the system (Next.js)
+
+---
+
+## Selected Work (Ongoing / Iterative)
+
+| Project | What it explores |
+|------|------------------|
+| **RAG Pipeline Optimizer** | Comparing RAG configurations to understand accuracy vs cost tradeoffs |
+| **Cost-Control Model Router** | Routing prompts to the least expensive capable model |
+| **Multimodal Video RAG** | Searching visual moments in long-form video using VLMs |
+
+These projects are built to understand **tradeoffs**, not to chase benchmarks.
+
+---
+
+<p align="center">
+I value clarity over cleverness, and systems that age well.
+</p>
