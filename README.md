@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://asirwad.vercel.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=027822&height=140&section=header&text=Hello,%20I'm%20Asirwad&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" /> </a>
+  <a href="https://asirwad.vercel.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=027822&height=140&section=header&text=Hello,%20I'm%20Asirwad&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=28" alt="Header" /> </a>
 
   <h3>AI Engineer · Systems-minded · Production-oriented</h3>
 
