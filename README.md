@@ -1,23 +1,25 @@
 <div align="center">
+  <a href="https://asirwad.vercel.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=027822&height=220&section=header&text=Hello,%20I'm%20Asirwad&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" /> </a>
 
-<h1>Asirwad Sali</h1>
-<p><b>AI Engineer · Systems-minded</b></p>
+  <h3>AI Engineer · Systems-minded · Production-oriented</h3>
 
-<p>
-I work on AI systems that are expected to run in production.<br/>
-My focus is on correctness, cost, observability, and long-term maintainability.
-</p>
+  <p>
+    I build <b>AI systems meant to run in production</b>, not demos.<br/>
+    Focused on correctness, cost control, observability,<br/>
+    and architectures that hold up over time.
+  </p>
 
-<a href="https://www.linkedin.com/in/asirwad-sali-58446620a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:asirwadsali@gmail.com">
-  <img src="https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white" />
-</a>
-
+  <p>
+    <a href="https://asirwad.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-asirwad.dev-0891b2?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/asirwad-sali-58446620a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Asirwad_Sali-0f172a?style=for-the-badge&logo=linkedin&logoColor=10b981" alt="LinkedIn"/>
+    </a>
+  </p>
 </div>
 
----
+<br />
 
 ## How I Approach AI Work
 
@@ -27,8 +29,6 @@ My focus is on correctness, cost, observability, and long-term maintainability.
 - Treat AI components as **infrastructure**, not experiments
 
 I’m still learning every day — especially where AI meets real-world constraints.
-
----
 
 ## Areas of Focus
 
@@ -49,8 +49,7 @@ I’m still learning every day — especially where AI meets real-world constrai
 - Building internal AI platforms teams can trust
 - Clear APIs, versioning, and operational discipline
 - Frontends only when they serve the system (Next.js)
-
----
+- HIPAA and GDPR auditable tracability
 
 ## Selected Work (Ongoing / Iterative)
 
