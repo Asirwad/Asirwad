@@ -1,13 +1,20 @@
 <div align="center">
   <a href="https://asirwad.vercel.app/"> <img src="https://capsule-render.vercel.app/api?type=waving&color=027822&height=140&section=header&text=Hello,%20I'm%20Asirwad&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=28" alt="Header" /> </a>
-
-  <h3>AI Engineer · Systems-minded · Production-oriented</h3>
-
-  <p>
-    I build <b>AI systems meant to run in production</b>, not demos.<br/>
-    Focused on correctness, cost control, observability,<br/>
-    and architectures that hold up over time.
-  </p>
+  <table>
+  <tr>
+    <td width="320">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" />
+    </td>
+    <td>
+      <h3>AI Engineer · Systems-minded · Production-oriented</h3>
+      <p>
+        I build <b>AI systems meant to run in production</b>, not demos.<br/>
+        Focused on correctness, cost control, observability,<br/>
+        and architectures that hold up over time.
+      </p>
+    </td>
+  </tr>
+</table>
 
   <p>
     <a href="https://asirwad.vercel.app" target="_blank">
