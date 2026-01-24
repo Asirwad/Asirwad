@@ -6,7 +6,7 @@
       <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" />
     </td>
     <td>
-      <h3>AI Engineer · Systems-minded · Production-oriented</h3>
+      <h3>AI Engineer · Systems-minded</h3>
       <p>
         I build <b>AI systems meant to run in production</b>, not demos.<br/>
         Focused on correctness, cost control, observability,<br/>
